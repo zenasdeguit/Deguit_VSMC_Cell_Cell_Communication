@@ -1,0 +1,6 @@
+Database,Protein(s),Evidence Type,Findings,Reference
+Human Protein Atlas,ANGPT1,Sender-cell expression,ANGPT1 RNA expression is cell-type enhanced in vascular smooth muscle cells,https://www.proteinatlas.org/ENSG00000154188-ANGPT1/single+cell
+Human Protein Atlas,TEK,Receiver-cell expression,TEK RNA expression is group enriched in vascular endothelial cells,https://www.proteinatlas.org/ENSG00000120156-TEK/single+cell
+OmniPath,ANGPT1-TEK,Ligand-receptor signaling,ANGPT1 is classified as secreted and TEK as a receptor; an ANGPT1-TEK interaction is reported,https://explore.omnipathdb.org/
+STRING,TEK-centered network,Functional protein associations,8 nodes and 15 edges; PPI enrichment p-value 3.22e-07; Tie signaling pathway GO:0048014 with FDR 0.00059,https://string-db.org/
+IntAct,ANGPT1-TEK,Direct molecular interaction,Direct interaction detected using surface plasmon resonance under in vitro conditions; PMID 32822567,https://www.ebi.ac.uk/intact/details/interaction/EBI-64062332
